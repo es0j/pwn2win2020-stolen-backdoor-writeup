@@ -210,7 +210,6 @@ Its important to evict the line after measuring it's response time to avoid a fa
     );
     return time;
 }
-
 ```
 # Checking if the system is vulnerable
 This attack is based on the premise that the cpu cache is considerably faster than the main memory. in order to test it:
